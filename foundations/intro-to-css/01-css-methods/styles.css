@@ -1,0 +1,9 @@
+/* External Stylesheet Example */
+
+div {
+    background-color: red; /* Red Background */
+    color: white; /* White Text */
+    font-size: 32px; /* Font size 32 */
+    text-align: center; /* Center Aligned */
+    font-weight: bold; /* Bold text */
+}
