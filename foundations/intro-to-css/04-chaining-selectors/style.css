@@ -1,1 +1,8 @@
 /* Add CSS Styling */
+
+/* First Picture */
+
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
+}
