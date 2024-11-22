@@ -1,12 +1,12 @@
 /* Style Sheet */
 
-/* Class Selectors */
-
+/* Type Selectors */
 div p {
     background-color: yellow;
     color: red;
 }
 
+/* Class Selectors */
 .container .text {
     font-size: 20px;
     text-align: center;
