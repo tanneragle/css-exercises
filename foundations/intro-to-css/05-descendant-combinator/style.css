@@ -6,3 +6,8 @@ div p {
     background-color: yellow;
     color: red;
 }
+
+.container .text {
+    font-size: 20px;
+    text-align: center;
+}
