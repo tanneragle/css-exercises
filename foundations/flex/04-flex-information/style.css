@@ -11,12 +11,14 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
-  margin-bottom: 48px;
+  margin-bottom: 32px;
 }
 
 .container {
   display: flex;
   justify-items: center;
+  gap: 52px;
+  margin: 52px;
 }
 
 /* do not edit this footer */
